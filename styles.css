@@ -1,0 +1,19 @@
+.heading{
+    font-size: 30px;
+    color: #1F2530; 
+    font-family: 'Parisienne', sans-serif;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input{
+    display: block;
+}
+
+.text{
+    text-align: center;
+}
